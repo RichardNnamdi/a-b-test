@@ -24,4 +24,5 @@ Probability of Improvement: This metric indicates the likelihood that the embedd
 Implementation
 To protect sensitive information, I won’t be sharing the actual website traffic data used in the A/B testing analysis. However, to illustrate the process, i’ll demonstrate the methodology using a Python script that generates realistic, simulated data.
 
-[Link to medium article]([https://medium.com/@richardnnamdi12/driving-business-growth-through-data-driven-insights-a-success-story-in-end-to-end-customer-4db38507fd81](https://medium.com/@richardnnamdi12/a-b-testing-triumph-how-we-a-b-tested-our-way-to-more-demo-requests-d5d9e10733bf))
+[Link to medium article](https://medium.com/@richardnnamdi12/driving-business-growth-through-data-driven-insights-a-success-story-in-end-to-end-customer-4db38507fd81)
+
